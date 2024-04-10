@@ -1,7 +1,7 @@
-. <b>"This project involves implementing object detection using YOLOv5." </b>
-. if you want to learn yolov5 algorithm you can visit - https://github.com/ultralytics/yolov5
+<b>"This project involves implementing object detection using YOLOv5." </b> </br>
+if you want to learn yolov5 algorithm you can visit - https://github.com/ultralytics/yolov5 </br></br>
 
-. so basically to implement this project you need to download the dataset folder which contains two thing 
+. so basically to implement this project you need to download the dataset folder which contains two thing </br>
   1. Images
   2. Annotations
 
