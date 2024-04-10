@@ -14,10 +14,11 @@ and the dataset files are also arranged in the format of yolov5
 
 ...................................yolov5..........................................
 Now let's go to the implementation of the project to implement you just need to download the dataset 
-and after downloading you need to put some commands in your vs-code terminal to use yolov5
-  git clone https://github.com/ultralytics/yolov5  # clone
-  cd yolov5
-  pip install -r requirements.txt  # install
+and after downloading you need to put some commands in your vs-code terminal to use yolov5.
+
+  1. git clone https://github.com/ultralytics/yolov5  # clone
+  2. cd yolov5
+  3. pip install -r requirements.txt  # install
 
 so this will import yolov5 and also  install the requirements needed for yolov5
 
